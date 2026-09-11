@@ -4,7 +4,7 @@ A task manager built with React and Vite, focused on actually being pleasant to 
 
 ## Live Demo
 
-_Add your Vercel link here once deployed._
+https://react-tasker-emzywest.vercel.app/
 
 ## Features
 
